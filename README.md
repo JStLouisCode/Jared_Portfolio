@@ -1,7 +1,7 @@
 # Jared_Portfolio
 My Projects Portfolio
 
-# [Project 1: Deep Learning](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
+# [Project 1: Deep Learning for Real Estate Price Prediction](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
 - Utilized deep learning techniques to develop an accurate model for predicting real estate prices from a given dataset.
 - Leveraged data visualization techniques such as scatter plots, histograms, and heatmaps to gain valuable insights into the relationships between real estate price and key features.
 - Implemented the model using Python and various libraries such as Tensorflow, Scikit-learn, Pandas, Numpy, Seaborn, and Matplotlib.
