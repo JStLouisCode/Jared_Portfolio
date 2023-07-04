@@ -25,7 +25,7 @@ My Projects Portfolio
 - Users can perform transactions with payees, although the exact nature of these transactions is not specified in the provided code.
 - The application is designed with visual styles enabled to provide an enhanced user interface experience.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/thebankpic.PNG)
+  
 
 # [Project 4: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
 
