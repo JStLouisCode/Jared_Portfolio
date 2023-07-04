@@ -10,7 +10,14 @@ My Projects Portfolio
 
   ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/DeepLearnProjectpic.PNG)
 
-# [Project 2: Bank Application GUI](https://github.com/JStLouisCode/Bank-Application-GUI-)
+# [Project 2: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
+- Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
+- Assess risk and compare stock performance based on maximum close prices.
+- Calculates the returns for each bank's stock and examines the best and worst single-day returns. This analysis provides insights into the volatility and risk associated with each stock.
+
+  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Stock_price_analysispic.PNG)
+
+# [Project 3: Bank Application GUI](https://github.com/JStLouisCode/Bank-Application-GUI-)
 
 - Windows Forms application that provides a graphical user interface for managing banking transactions in C#. 
 - Users can transfer funds between different types of accounts, including chequing accounts and savings accounts.
@@ -20,7 +27,7 @@ My Projects Portfolio
 
   ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/thebankpic.PNG)
 
-# [Project 3: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
+# [Project 4: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
 
 - Python-based command-line application designed to help users efficiently manage a library of books.
 - Features include loading book data, adding/removing books, searching by criteria, retrieving book categories, and sorting based on different attributes.
@@ -28,14 +35,6 @@ My Projects Portfolio
 - Robust and flexible solution using efficient algorithms that allows users to organize and access their book collection, saving time and effort.
 
   ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/bookshelfpic.PNG)
-
-
-# [Project 4: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
-- Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
-- Assess risk and compare stock performance based on maximum close prices.
-- Calculates the returns for each bank's stock and examines the best and worst single-day returns. This analysis provides insights into the volatility and risk associated with each stock.
-
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Stock_price_analysispic.PNG)
 
 
 # [Project 5: Cheap-Flight-Finder](https://github.com/JStLouisCode/Cheap-Flight-Finder)
