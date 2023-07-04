@@ -18,6 +18,8 @@ My Projects Portfolio
 - Users can perform transactions with payees, although the exact nature of these transactions is not specified in the provided code.
 - The application is designed with visual styles enabled to provide an enhanced user interface experience.
 
+  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/thebankpic.PNG)
+
 # [Project 3: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
 
 - Python-based command-line application designed to help users efficiently manage a library of books.
@@ -25,11 +27,15 @@ My Projects Portfolio
 - System provides a user-friendly interface through the command line, ensuring easy navigation and interaction.
 - Robust and flexible solution using efficient algorithms that allows users to organize and access their book collection, saving time and effort.
 
+  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/bookshelfpic.PNG)
+
 
 # [Project 4: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
 - Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
 - Assess risk and compare stock performance based on maximum close prices.
 - Calculates the returns for each bank's stock and examines the best and worst single-day returns. This analysis provides insights into the volatility and risk associated with each stock.
+
+  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Stock_price_analysispic.PNG)
 
 
 # [Project 5: Cheap-Flight-Finder](https://github.com/JStLouisCode/Cheap-Flight-Finder)
