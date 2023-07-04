@@ -8,10 +8,12 @@ My Projects Portfolio
 - Conducted data preprocessing and feature engineering to optimize the model's performance.
 - Evaluated the model's predictions using metrics such as RMSE, MSE, MAE, and R2, ensuring its accuracy and effectiveness.
 
+  [](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/DeepLearnProjectpic.PNG)
+
 # [Project 2: Bank Application GUI](https://github.com/JStLouisCode/Bank-Application-GUI-)
 
 - Windows Forms application that provides a graphical user interface for managing banking transactions in C#. 
-- Users can transfer funds between different types of accounts, including chequing accounts and savings account.
+- Users can transfer funds between different types of accounts, including chequing accounts and savings accounts.
 - Users can view and update their personal information, including their name, address, and postal code.
 - Users can perform transactions with payees, although the exact nature of these transactions is not specified in the provided code.
 - The application is designed with visual styles enabled to provide an enhanced user interface experience.
