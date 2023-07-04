@@ -8,7 +8,7 @@ My Projects Portfolio
 - Conducted data preprocessing and feature engineering to optimize the model's performance.
 - Evaluated the model's predictions using metrics such as RMSE, MSE, MAE, and R2, ensuring its accuracy and effectiveness.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/DeepLearnProjectpic.PNG)
+  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Deeppic.PNG)
 
 # [Project 2: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
 - Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
