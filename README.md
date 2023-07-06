@@ -1,4 +1,4 @@
-# Jared_Portfolio
+# Jared St.Louis Portfolio
 My Projects Portfolio
 
 # [Project 1: Deep Learning for Real Estate Price Prediction](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
