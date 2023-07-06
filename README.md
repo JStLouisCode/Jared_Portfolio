@@ -8,14 +8,14 @@ My Projects Portfolio
 - Conducted data preprocessing and feature engineering to optimize the model's performance.
 - Evaluated the model's predictions using metrics such as RMSE, MSE, MAE, and R2, ensuring its accuracy and effectiveness.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Deeppic.PNG)
+  ![](/images/Deeppic.PNG)
 
 # [Project 2: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
 - Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
 - Assess risk and compare stock performance based on maximum close prices.
 - Calculates the returns for each bank's stock and examines the best and worst single-day returns. This analysis provides insights into the volatility and risk associated with each stock.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Stock_price_analysispic.PNG)
+  ![](/images/Stock_price_analysispic.PNG)
 
 # [Project 3: Bank Application GUI](https://github.com/JStLouisCode/Bank-Application-GUI-)
 
@@ -25,7 +25,7 @@ My Projects Portfolio
 - Users can perform transactions with payees, although the exact nature of these transactions is not specified in the provided code.
 - The application is designed with visual styles enabled to provide an enhanced user interface experience.
 
- ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/bankpic.PNG) 
+ ![](/images/bankpic.PNG) 
 
 # [Project 4: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
 
@@ -34,7 +34,7 @@ My Projects Portfolio
 - System provides a user-friendly interface through the command line, ensuring easy navigation and interaction.
 - Robust and flexible solution using efficient algorithms that allows users to organize and access their book collection, saving time and effort.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/bookshelfpic.PNG)
+  ![](/images/bookshelfpic.PNG)
 
 
 # [Project 5: Cheap-Flight-Finder](https://github.com/JStLouisCode/Cheap-Flight-Finder)
