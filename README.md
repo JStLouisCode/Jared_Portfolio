@@ -6,7 +6,7 @@ My Projects Portfolio
 -  Utilized a MySQL database to store user data securely and created a database handler to manage connections, data reading, and writing.
 - Implemented robust security measures by securely hashing user passwords using the SHA-256 algorithm, ensuring they are not stored in plain text within the MySQL database.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/SecureProfileManager.png)
+  ![](/images/SecureProfileManager.png)
 
 
 # [Project 2: Deep Learning for Real Estate Price Prediction](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
@@ -16,7 +16,7 @@ My Projects Portfolio
 - Conducted data preprocessing and feature engineering to optimize the model's performance.
 - Evaluated the model's predictions using metrics such as RMSE, MSE, MAE, and R2, ensuring its accuracy and effectiveness.
 
-  ![](https://github.com/JStLouisCode/Jared_Portfolio/blob/main/images/Deeppic.PNG)
+  ![](/images/Deeppic.PNG)
 
 # [Project 3: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
 - Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
