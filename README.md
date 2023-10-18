@@ -6,6 +6,8 @@ My Projects Portfolio
 -  Utilized a MySQL database to store user data securely and created a database handler to manage connections, data reading, and writing.
 - Implemented robust security measures by securely hashing user passwords using the SHA-256 algorithm, ensuring they are not stored in plain text within the MySQL database.
 
+   ![](/images/SecureProfileManager.PNG)
+
 
 # [Project 2: Deep Learning for Real Estate Price Prediction](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
 - Utilized deep learning techniques to develop an accurate model for predicting real estate prices from a given dataset.
