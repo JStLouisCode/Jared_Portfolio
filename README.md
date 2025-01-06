@@ -3,7 +3,7 @@ My Projects Portfolio
 
 # [Project 1: Martial Arts Gym Finder](https://github.com/JStLouisCode/Martial-Arts-Gym-Finder)
 - Designed and developed a web application to help users find martial arts gyms by discipline (e.g., Judo, Boxing, Karate) and location.
-- Built a RESTful API using Node.js to enable efficient backend data retrieval and integrated SQLite for lightweight and reliable database management.
+- Built a RESTful API using Node.js to enable efficient backend data retrieval and integrated MySQL for lightweight and reliable database management.
 - Utilized Python for web scraping to gather and organize data from various martial arts organization websites, creating a centralized and up-to-date gym directory.
 - Deployed the project on AWS, showcasing experience with cloud hosting and scalability.
 
