@@ -1,7 +1,16 @@
 # Jared St.Louis Portfolio
 My Projects Portfolio
 
-# [Project 1: SecureProfileManager](https://github.com/JStLouisCode/SecureProfileManager)
+# [Project 1: Martial Arts Gym Finder](https://github.com/JStLouisCode/Martial-Arts-Gym-Finder)
+- Designed and developed a web application to help users find martial arts gyms by discipline (e.g., Judo, Boxing, Karate) and location.
+- Built a RESTful API using Node.js to enable efficient backend data retrieval and integrated SQLite for lightweight and reliable database management.
+- Utilized Python for web scraping to gather and organize data from various martial arts organization websites, creating a centralized and up-to-date gym directory.
+- Deployed the project on AWS, showcasing experience with cloud hosting and scalability.
+
+  ![](/images/MAGymFinder.png)
+
+  
+# [Project 2: SecureProfileManager](https://github.com/JStLouisCode/SecureProfileManager)
 -  Developed a Java application with a graphical user interface (GUI) for secure user registration and authentication, allowing users to create and manage profiles.
 -  Utilized a MySQL database to store user data securely and created a database handler to manage connections, data reading, and writing.
 - Implemented robust security measures by securely hashing user passwords using the SHA-256 algorithm, ensuring they are not stored in plain text within the MySQL database.
@@ -9,7 +18,7 @@ My Projects Portfolio
   ![](/images/SecureProfileManager.png)
 
 
-# [Project 2: Deep Learning for Real Estate Price Prediction](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
+# [Project 3: Deep Learning for Real Estate Price Prediction](https://github.com/JStLouisCode/Deep-Learning-for-RE-Price-Prediction)
 - Utilized deep learning techniques to develop an accurate model for predicting real estate prices from a given dataset.
 - Leveraged data visualization techniques such as scatter plots, histograms, and heatmaps to gain valuable insights into the relationships between real estate prices and key features.
 - Implemented the model using Python and various libraries such as Tensorflow, Scikit-learn, Pandas, Numpy, Seaborn, and Matplotlib.
@@ -18,14 +27,14 @@ My Projects Portfolio
 
   ![](/images/Deeppic.PNG)
 
-# [Project 3: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
+# [Project 4: Stock Price Analysis](https://github.com/JStLouisCode/Stock-Price-Analysis)
 - Analyzes stock prices of major banks to gain insights using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, it performs data analysis and visualization.
 - Assess risk and compare stock performance based on maximum close prices.
 - Calculates the returns for each bank's stock and examines the best and worst single-day returns. This analysis provides insights into the volatility and risk associated with each stock.
 
   ![](/images/Stock_price_analysispic.PNG)
 
-# [Project 4: Bank Application GUI](https://github.com/JStLouisCode/Bank-Application-GUI-)
+# [Project 5: Bank Application GUI](https://github.com/JStLouisCode/Bank-Application-GUI-)
 
 - Windows Forms application that provides a graphical user interface for managing banking transactions in C#. 
 - Users can transfer funds between different types of accounts, including chequing accounts and savings accounts.
@@ -35,7 +44,7 @@ My Projects Portfolio
 
  ![](/images/bankpic.PNG) 
 
-# [Project 5: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
+# [Project 6: Library Management System](https://github.com/JStLouisCode/Library-Management-System)
 
 - Python-based command-line application designed to help users efficiently manage a library of books.
 - Features include loading book data, adding/removing books, searching by criteria, retrieving book categories, and sorting based on different attributes.
@@ -45,7 +54,7 @@ My Projects Portfolio
   ![](/images/bookshelfpic.PNG)
 
 
-# [Project 6: Cheap-Flight-Finder](https://github.com/JStLouisCode/Cheap-Flight-Finder)
+# [Project 7: Cheap-Flight-Finder](https://github.com/JStLouisCode/Cheap-Flight-Finder)
 - Automates the process of finding the cheapest flights on Expedia using the Selenium, Pandas, and Schedule libraries.
 - Automatically searches for the cheapest flights based on specified departure and arrival locations, as well as the desired travel dates.
 - Retrieves flight details such as airline, departure time, arrival time, and price.
